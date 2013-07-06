@@ -1,0 +1,57 @@
+/* miro.hroncok.cz */
+
+body {
+	background: #7c7c7c;
+	color: #333;
+	font-family: "Trebuchet MS";
+}
+
+#kontajner {
+	margin: 0em auto;
+}
+
+h1 {
+	font-size: 450%;
+	text-align: center;
+
+}
+
+#vcard {
+	margin: 0em auto;
+	width: 20.5em;
+}
+
+#vcard a {
+	font-size: 200%;
+	line-height: 1.2em;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+	color: #2e2e2e;
+}
+
+a:hover { color: #000; }
+
+li {
+	list-style: none;
+	margin: 0px 0px 0px -40px;
+}
+
+#vcard li a { padding-left: 55px; }
+
+/*
+.label { display: none; }
+*/
+
+/* obrazky */
+#mail { background: url("mail.png") center left no-repeat; }
+#jabber { background: url("jabber.png") center left no-repeat; }
+#pgp { background: url("key.png") center left no-repeat; }
+#tel { background: url("tel.png") center left no-repeat; }
+
+#footer {
+	text-align: center;
+	clear: both;
+}
