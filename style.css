@@ -48,7 +48,7 @@ li {
 /* obrazky */
 #mail { background: url("mail.png") center left no-repeat; }
 #jabber { background: url("jabber.png") center left no-repeat; }
-#pgp { background: url("key.png") center left no-repeat; }
+#irc { background: url("irc.png") center left no-repeat; }
 #tel { background: url("tel.png") center left no-repeat; }
 
 #footer {
